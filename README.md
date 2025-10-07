@@ -1,2 +1,3 @@
-# pps-lab
-practice for C-programming 
+# PPS-Lab
+
+Practice for C-programming 
